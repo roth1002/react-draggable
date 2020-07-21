@@ -42,7 +42,7 @@
     "karma-phantomjs-shim": "^1.1.1",
     "karma-webpack": "^1.7.0",
     "lodash": "^3.10.1",
-    "open": "0.0.5",
+    "open": "7.1.0",
     "phantomjs": "^1.9.18",
     "pre-commit": "^1.1.2",
     "react": "^0.14.0",
